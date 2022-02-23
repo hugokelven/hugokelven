@@ -1,4 +1,4 @@
-# Olá, meu nome é Hugo! Seja bem-vindo! 👋
+# Olá, seja bem-vindo! 👋
 
 ## Uma breve introdução sobre mim:
 
