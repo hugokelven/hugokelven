@@ -1,6 +1,6 @@
 # Olá, seja bem-vindo(a)! 👋
 
-![image](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+[![image](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198123224596/)
 
 ## Uma breve introdução sobre mim:
 
