@@ -1,5 +1,7 @@
 # Olá, seja bem-vindo(a)! 👋
 
+![image](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
+
 ## Uma breve introdução sobre mim:
 
 Antes de almejar a carreira de dev, eu era estudante de Engenharia Mecânica numa universidade pública, onde cursei os quatro primeiros anos até desistir do curso. Desisti, pois percebi que meus aprendizados ao longo da formação tinham um teor mais voltado à área acadêmica, o que me deixou desqualificado para atuar no mercado de trabalho e me gerou várias decepções em processos seletivos. Como eu gostei muito e tinha uma certa habilidade com a disciplina de Linguagem da Programação na universidade, dedici fazer uma grande mudança na minha vida e tentar uma oportunidade na área de TI. Atualmente, sou estudante de Desenvolvimento Full Stack pela Driven Education.
