@@ -4,7 +4,7 @@
 
 Antes de almejar a carreira de dev, eu era estudante de Engenharia Mecânica numa universidade pública, onde cursei os quatro primeiros anos até desistir do curso. Desisti, pois percebi que meus aprendizados ao longo da formação tinham um teor mais voltado à área acadêmica, o que me deixou desqualificado para atuar no mercado de trabalho e me gerou várias decepções em processos seletivos. Como eu gostei muito e tinha uma certa habilidade com a disciplina de Linguagem da Programação na universidade, dedici fazer uma grande mudança na minha vida e tentar uma oportunidade na área de TI. Atualmente, sou estudante de Desenvolvimento Full Stack pela Driven Education.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugokelven&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugokelven&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugokelven&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
