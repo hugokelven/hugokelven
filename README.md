@@ -1,11 +1,15 @@
 # Olá, seja bem-vindo(a)! 👋
 
-[![image](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198123224596/){target="_blank"}
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugokelven98@gmail.com) [![image](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198123224596/)
 
 ## Uma breve introdução sobre mim:
 
 Antes de almejar a carreira de dev, eu era estudante de Engenharia Mecânica numa universidade pública, onde cursei os quatro primeiros anos até desistir do curso. Desisti, pois percebi que meus aprendizados ao longo da formação tinham um teor mais voltado à área acadêmica, o que me deixou desqualificado para atuar no mercado de trabalho e me gerou várias decepções em processos seletivos. Como eu gostei muito e tinha uma certa habilidade com a disciplina de Linguagem da Programação na universidade, dedici fazer uma grande mudança na minha vida e tentar uma oportunidade na área de TI. Atualmente, sou estudante de Desenvolvimento Full Stack pela Driven Education.
 
+## Linguagens e ferramentas
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![image](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
+## Outros dados
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hugokelven&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hugokelven&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
